@@ -1,3 +1,9 @@
+! Title: Easylist Simplified
+
+! 22:08 February 15 2022
+
+# Simplified Easylist with Whitelist and *Wildcards
+
 ||gannett.gcion.com^
 ||gbcvbnv5.com^
 ||tr.news.allopneus.com^
