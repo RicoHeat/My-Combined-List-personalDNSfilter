@@ -1,6 +1,6 @@
-! Title: d3host by d3ward.github.io 
+! Title: D3host by D3ward.github.io 
 ! Wed Feb 16 15:20:52 GMT+08:00 2022
-====================
+! ====================
 
 ! Google
 ||pagead2.googlesyndication.com^
