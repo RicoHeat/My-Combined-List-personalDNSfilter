@@ -1,3 +1,8 @@
+! Title: Adblock-Combined
+! Adservers list combined from 1Hosts Lite + OISD Basic + Energized Spark
+! Updated: Mon, 04 Apr 22 10:02:48
+! Note: This is for personal use
+
 ||turboadblocker.com^
 ||infinityads.com^
 ||mobiletrk.click-now.today^
