@@ -84,6 +84,7 @@
 ||api-hotjar.com^
 ||hotjar-analytics.com^
 ||hotjar.com^
+||static.hotjar.com^
 
 ! MouseFlow
 ||mouseflow.com^
