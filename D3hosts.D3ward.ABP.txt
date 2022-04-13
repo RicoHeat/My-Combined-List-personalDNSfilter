@@ -1,23 +1,19 @@
+[Adblock]
 ! Title: D3host by D3ward (RicoHeat)
 ! Wed APR 13 15:20:52 GMT+08:00 2022
 ! ====================
-
 ! Google
 ||pagead2.googlesyndication.com^
 ||ads.google.com^
 ||adservice.google.com^
 ||googleadservices.com^
-
 ! Media.net
 ||media.net^
-
 ! Doubleclick.net
 ||doubleclick.net^
-
 ! FastClick
 ||fastclick.com^
 ||fastclick.net^
-
 ! Amazon
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -27,7 +23,6 @@
 ||amazonaax.com^
 ||amazonclix.com^
 ||assoc-amazon.com^
-
 ! Yahoo
 ||ads.yahoo.com^
 ||adserver.yahoo.com^
@@ -49,7 +44,6 @@
 ||ads.yap.yahoo.com^
 ||m.yap.yahoo.com^
 ||partnerads.ysm.yahoo.com^
-
 ! Yandex
 ||appmetrica.yandex.com^
 ||report.appmetrica.yandex.net^
@@ -76,54 +70,41 @@
 ||click.sender.yandex.ru^
 ||share.yandex.ru^
 ||yandexadexchange.net^
-
 ! Analytics
 ||google-analytics.com^
-
 ! Hotjar
 ||api-hotjar.com^
 ||hotjar-analytics.com^
 ||hotjar.com^
-||static.hotjar.com^
-
 ! MouseFlow
 ||mouseflow.com^
-
 ! FreshMarketer
 ||freshmarketer.com^
-
 ! Luckyorange
 ||luckyorange.com^
 ||luckyorange.net^
-
 ! WP
 ||stats.wp.com^
-
 ! Bugsnag
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
-
 ! Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-
 ! Facebook
 ||pixel.facebook.com^
 ||analytics.facebook.com^
 ||ads.facebook.com^
 ||an.facebook.com^
-
 ! Twitter
 ||ads-api.twitter.com^
 ||advertising.twitter.com^
 ||ads-twitter.com^
-
 ! LinkedIn
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
-
 ! Pinterest
 ||ads.pinterest.com^
 ||log.pinterest.com^
@@ -132,26 +113,21 @@
 ||trk.pinterest.com^
 ||trk2.pinterest.com^
 ||widgets.pinterest.com^
-
 ! Reddit
 ||ads.reddit.com^
 ||rereddit.com^
 ||events.redditmedia.com^
 ||d.reddit.com^
-
 ! TikTok
 ||ads-sg.tiktok.com^
 ||analytics-sg.tiktok.com^
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
-
 ! YouTube
 ||ads.youtube.com^
 ||youtube.cleverads.vn^
-
 ! Realme
 ||bdapi-in-ads.realmemobile.com^
-
 ! OPPO
 ||adsfs.oppomobile.com^
 ||adx.ads.oppomobile.com^
@@ -159,7 +135,6 @@
 ||ck.ads.oppomobile.com^
 ||data.ads.oppomobile.com^
 ||g1.ads.oppomobile.com^
-
 ! Xiaomi
 ||api.ad.xiaomi.com^
 ||app.chat.xiaomi.net^
@@ -176,13 +151,11 @@
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
-
 ! OnePlus
 ||analytics.oneplus.cn^
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||open.oneplus.net^
-
 ! Huawei
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
@@ -194,7 +167,6 @@
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||logbak.hicloud.com^
-
 ! Samsung
 ||samsungadhub.com^
 ||samsungads.com^
@@ -205,7 +177,6 @@
 ||analytics.samsungknox.com^
 ||bigdata.ssp.samsung.com^
 ||analytics-api.samsunghealthcn.com^
-
 ! Apple
 ||metrics.apple.com^
 ||securemetrics.apple.com^
