@@ -25,8 +25,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 # End Local Hosts
 
-# Start
-
+# Start Hosts
 # Google Ads
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
@@ -872,4 +871,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
-# End
+# End Hosts
