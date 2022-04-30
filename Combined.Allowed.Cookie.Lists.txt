@@ -1,4 +1,4 @@
-[Adblock Plus 2.]
+[Adblock Plus 2.0]
 ! Title: Combined Allowed Cookie Lists
 ! File Updated: May 01 2022
 ! Sources: https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/sections/cookies_whitelist.txt ## https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt ## https://www.eff.org/files/cookieblocklist.txt
