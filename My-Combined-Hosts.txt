@@ -1,7 +1,8 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# Version: 202205262100
+# Title: My Combined Hosts
+# Version: 202205262300
 # Sources: https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt; https://pgl.yoyo.org/adservers/serverlist.php?hostformat=&showintro=0&mimetype=plaintext; https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt; https://adaway.org/hosts.txt; https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # Total Domains: 57407
 
