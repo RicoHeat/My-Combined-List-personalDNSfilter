@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 # Title: My Adservers Blocklist
-# Version: 202205270605
-# Total Filters: 54803
+# Version: 20220601T2200
+# Total Filters: 54801
 
 ||qdb6gd3nth.ru^$third-party
 ||gannett.gcion.com^
@@ -5228,7 +5228,6 @@ t.signaux$image
 ||puffnetwork.com^$third-party
 ||growthrx.in^$third-party
 ||hpaxamwej.com^
-mobile.twitter.com
 ||seriouslylargestnewsletter.com^
 ||rbfvtiqnd.com^
 ||findsexeasy1.com^
@@ -32793,7 +32792,6 @@ trackedlink.net$image
 ||uckbcroqkb.com^
 ||voyageconcise.com^
 ||gomrorrli.top^
-twitter.com
 ||iqfp1.com^$third-party
 ||aa.avvo.com^
 ||perso.aws.arc.pub^
