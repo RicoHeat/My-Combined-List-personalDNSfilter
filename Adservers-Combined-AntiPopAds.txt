@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 # Title: My Adservers Blocklist
-# Version: 20220601T2200
-# Total Filters: 54801
+# Version: 202205270605
+# Total Filters: 54803
 
 ||qdb6gd3nth.ru^$third-party
 ||gannett.gcion.com^
