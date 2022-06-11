@@ -2,9 +2,10 @@
 ::1  localhost
 
 # Title: My Combined Hosts
-# Version: 20220603T0150
+# Version: 20220611T2200
 # Sources: https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt; https://pgl.yoyo.org/adservers/serverlist.php?hostformat=&showintro=0&mimetype=plaintext; https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt; https://adaway.org/hosts.txt; https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# Total Domains: 58289
+# Total Domains: 58355
+
 
 127.0.0.1 r4---sn-hgn7rnee.c.2mdn.net
 127.0.0.1 independencebluecross-app.quantummetric.com
@@ -935,7 +936,6 @@
 127.0.0.1 a1507.casalemedia.com
 127.0.0.1 6056952.fls.doubleclick.net
 127.0.0.1 ntp1-vfs1.ott.kaltura.com
-127.0.0.1 ployea.com
 127.0.0.1 step-service.crossinstall.io
 127.0.0.1 adalliance.profiles.tagger.opecloud.com
 127.0.0.1 adslvfile.qq.com
@@ -1211,6 +1211,7 @@
 127.0.0.1 consistfiringsuction.com
 127.0.0.1 www2.ispot.tv
 127.0.0.1 tbs.com.ssl.d2.sc.omtrdc.net
+127.0.0.1 relay-client-c02.iocnt.net
 127.0.0.1 amountdonutproxy.com
 127.0.0.1 8866898.fls.doubleclick.net
 127.0.0.1 hd.hupu.com
@@ -1575,6 +1576,7 @@
 127.0.0.1 goodcode.me
 127.0.0.1 premera.demdex.net
 127.0.0.1 adserver.71i.de
+127.0.0.1 mobfaz-relay.iocnt.net
 127.0.0.1 node-p2w-5lpbrs.sitescout.com
 127.0.0.1 get-money-to.shop
 127.0.0.1 1af08.playfabapi.com
@@ -2232,7 +2234,6 @@
 127.0.0.1 10270089.fls.doubleclick.net
 127.0.0.1 20827853p.rfihub.com
 127.0.0.1 id-dailyherald.tinypass.com
-127.0.0.1 cyrasi.com
 127.0.0.1 cdn-ihb.33across.com
 127.0.0.1 widespace.com
 127.0.0.1 supplyrefereesneeze.com
@@ -2397,7 +2398,6 @@
 127.0.0.1 r3---sn-vgqsrned.c.2mdn.net
 127.0.0.1 sn-a5mlrn7d.c.2mdn.net
 127.0.0.1 adfill.adview.cn
-127.0.0.1 plardi.com
 127.0.0.1 tkacr516.alphonso.tv
 127.0.0.1 4031938.fls.doubleclick.net
 127.0.0.1 10460294.fls.doubleclick.net
@@ -2641,6 +2641,7 @@
 127.0.0.1 collector-px0trt62kw.px-cloud.net
 127.0.0.1 timeout.com.ssl.sc.omtrdc.net
 127.0.0.1 gt-lal-nba.yinzcam.com
+127.0.0.1 data-de83895c33.apps.iocnt.de
 127.0.0.1 brp.sc.omtrdc.net
 127.0.0.1 mysticalpercussive.com
 127.0.0.1 deloitte.com.ssl.sc.omtrdc.net
@@ -2921,6 +2922,7 @@
 127.0.0.1 fast.nbcu.demdex.net
 127.0.0.1 goujonssledful.casa
 127.0.0.1 6526307.fls.doubleclick.net
+127.0.0.1 ntv-relay.iocnt.net
 127.0.0.1 go-mpulse.net
 127.0.0.1 a1119.casalemedia.com
 127.0.0.1 sam4m.com
@@ -4505,7 +4507,6 @@
 127.0.0.1 paulaschoice-app.quantummetric.com
 127.0.0.1 sensationaleducate.com
 127.0.0.1 7cd77.v.fwmrm.net
-127.0.0.1 hitfarm.com
 127.0.0.1 a.adtechus.com
 127.0.0.1 r4.sn-npoeenly.c.2mdn.net
 127.0.0.1 afbe8539a9fd.cdn4.forter.com
@@ -4866,6 +4867,7 @@
 127.0.0.1 r3---sn-aigl6nsd.c.2mdn.net
 127.0.0.1 na-ab39.marketo.com
 127.0.0.1 4906774.fls.doubleclick.net
+127.0.0.1 data-5bcaee9cf7.apps.iocnt.de
 127.0.0.1 m.t.tailtarget.com
 127.0.0.1 r1it6.xyz
 127.0.0.1 wa.kuwo.cn
@@ -5278,6 +5280,7 @@
 127.0.0.1 q017o-jh7o1.ads.tremorhub.com
 127.0.0.1 a3270.casalemedia.com
 127.0.0.1 collector-12215.tvsquared.com
+127.0.0.1 data-5bf0fdacd2.apps.iocnt.de
 127.0.0.1 staging5.adpushup.com
 127.0.0.1 r2---sn-nv47lnly.c.2mdn.net
 127.0.0.1 sonar.adswizz.com
@@ -5372,6 +5375,7 @@
 127.0.0.1 telemetry-lcp.trafficmanager.net
 127.0.0.1 largosoft.co.kr
 127.0.0.1 a4079.casalemedia.com
+::	2600:1f18:43d1:2a04:ee05:261e:d408:7ba1
 127.0.0.1 ui-cdn.saas.appdynamics.com
 127.0.0.1 defensetraverse.com
 127.0.0.1 ads48.adtelligent.com
@@ -6002,6 +6006,7 @@
 127.0.0.1 a5319.casalemedia.com
 127.0.0.1 asset.pagefair.com
 127.0.0.1 515006091.collect.igodigital.com
+127.0.0.1 data-87c7424086.apps.iocnt.de
 127.0.0.1 saymedia.com
 127.0.0.1 thirdlove.hrzn-nxt.com
 127.0.0.1 gumgum-tagan.adlightning.com
@@ -6493,6 +6498,7 @@
 127.0.0.1 a4339.casalemedia.com
 127.0.0.1 oao-d.openx.net
 127.0.0.1 node-p2e-oi3quu.sitescout.com
+127.0.0.1 appntv-relay.iocnt.net
 127.0.0.1 detailextentprevail.com
 127.0.0.1 r6---sn-30a7yn7d.c.2mdn.net
 127.0.0.1 krishnaw44.alphonso.tv
@@ -6523,7 +6529,6 @@
 127.0.0.1 apparelchildplash.com
 127.0.0.1 app.extremereach.com
 127.0.0.1 media-servers.net
-127.0.0.1 nitratory.com
 127.0.0.1 u.t.pardot.com
 127.0.0.1 ewr-453.ewr-rtb1.rfihub.com
 127.0.0.1 thecontainerstore.tt.omtrdc.net
@@ -7969,6 +7974,7 @@
 127.0.0.1 prsitecheck.com
 127.0.0.1 9509207.fls.doubleclick.net
 127.0.0.1 solarwinds.com.ssl.sc.omtrdc.net
+127.0.0.1 iocnt.de
 127.0.0.1 tkacr25.alphonso.tv
 127.0.0.1 8251715.fls.doubleclick.net
 127.0.0.1 borderoffenseantenna.com
@@ -9414,7 +9420,6 @@
 127.0.0.1 a2644.casalemedia.com
 127.0.0.1 jungroup.com
 127.0.0.1 10032369.fls.doubleclick.net
-127.0.0.1 yogyn.com
 127.0.0.1 a3792.casalemedia.com
 127.0.0.1 9420694.fls.doubleclick.net
 127.0.0.1 gg.hit.gemius.pl
@@ -9440,6 +9445,7 @@
 127.0.0.1 10357417.fls.doubleclick.net
 127.0.0.1 10132484.fls.doubleclick.net
 127.0.0.1 logs.spilgames.com
+127.0.0.1 toi-relay.iocnt.net
 127.0.0.1 indebuurt.pushengage.com
 127.0.0.1 sxerr.uno
 127.0.0.1 ylwu7xm3a1wv.com
@@ -9447,6 +9453,7 @@
 127.0.0.1 a304.casalemedia.com
 127.0.0.1 delta221.rtb.appier.net
 127.0.0.1 a4152.casalemedia.com
+127.0.0.1 data-4713ae37a2.apps.iocnt.de
 127.0.0.1 lakeshorelearningmaterials.demdex.net
 127.0.0.1 r2---sn-5ualdne7.c.2mdn.net
 127.0.0.1 iqtestonline24.com
@@ -9568,6 +9575,7 @@
 127.0.0.1 mweb-tag.presage.io
 127.0.0.1 purchasingpower.extole.com
 127.0.0.1 lenovosupport-app.quantummetric.com
+127.0.0.1 data-5acce9c32f.apps.iocnt.de
 127.0.0.1 tkacr100.alphonso.tv
 127.0.0.1 iota216.rtb.appier.net
 127.0.0.1 zjhet49i.micpn.com
@@ -9620,6 +9628,7 @@
 127.0.0.1 r5.sn-vgqsrnz7.c.2mdn.net
 127.0.0.1 vinfast.api.useinsider.com
 127.0.0.1 3616.content.swrve.com
+127.0.0.1 data-36fd9d40cb.apps.iocnt.de
 127.0.0.1 4707004.fls.doubleclick.net
 127.0.0.1 pncbank.demdex.net
 127.0.0.1 swimminghardworkingowners.com
@@ -9785,6 +9794,7 @@
 127.0.0.1 r4.sn-5ualdnll.c.2mdn.net
 127.0.0.1 novemberabsorptiondenounce.com
 127.0.0.1 pug-lhrc.pubmatic.com
+127.0.0.1 data-ae2238eacd.apps.iocnt.de
 127.0.0.1 collector-4102.tvsquared.com
 127.0.0.1 p.tvpixel.com
 127.0.0.1 search.daumcdn.net.edgesuite.net
@@ -10134,6 +10144,7 @@
 127.0.0.1 telaria.com
 127.0.0.1 api.appsee.com
 127.0.0.1 negotiatesallyconnote.com
+127.0.0.1 relay-client-c03.iocnt.net
 127.0.0.1 api.megacool.co
 127.0.0.1 r1.sn-p5qlsndk.c.2mdn.net
 127.0.0.1 ad-score.com
@@ -10435,7 +10446,6 @@
 127.0.0.1 html.stackadapt.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 adswizz-match.dotomi.com
-127.0.0.1 imembe.com
 127.0.0.1 a3775.casalemedia.com
 127.0.0.1 cat.nl.eu.criteo.com
 127.0.0.1 1533911.fls.doubleclick.net
@@ -11264,6 +11274,7 @@
 127.0.0.1 aaa.com.ssl.sc.omtrdc.net
 127.0.0.1 8826473.fls.doubleclick.net
 127.0.0.1 rr3---sn-i3b7knsd.c.2mdn.net
+127.0.0.1 data-917f6e673e.apps.iocnt.de
 127.0.0.1 inthebook.api.useinsider.com
 127.0.0.1 visible-app.quantummetric.com
 127.0.0.1 r2.sn-nx5s7n7z.c.2mdn.net
@@ -11984,6 +11995,7 @@
 127.0.0.1 voteyapgrade.com
 127.0.0.1 3-94-0e593f2f-0d12-4c7e-9616-5e542a2279c9.analytics.mobilegamestats.com
 127.0.0.1 9390742.fls.doubleclick.net
+127.0.0.1 look.ichlnk.com
 127.0.0.1 seat.d3.sc.omtrdc.net
 127.0.0.1 0w1rqq69fi0e.com
 127.0.0.1 r3---sn-hpa7kn7l.c.2mdn.net
@@ -12076,6 +12088,7 @@
 127.0.0.1 victor54.rtb.appier.net
 127.0.0.1 20827134p.rfihub.com
 127.0.0.1 sn-4g5ednly.c.2mdn.net
+127.0.0.1 mobtoi-relay.iocnt.net
 127.0.0.1 9819801.fls.doubleclick.net
 127.0.0.1 a4401.casalemedia.com
 127.0.0.1 4315545.fls.doubleclick.net
@@ -12282,7 +12295,6 @@
 127.0.0.1 gameranger-d.openx.net
 127.0.0.1 spire.aarki.net
 127.0.0.1 appsrv.display.io
-127.0.0.1 onctus.com
 127.0.0.1 5d40b.v.fwmrm.net
 127.0.0.1 r5---sn-vgqs7nlr.c.2mdn.net
 127.0.0.1 thepublisherdesk.technoratimedia.com
@@ -13117,6 +13129,7 @@
 127.0.0.1 goldcarglobal.commander1.com
 127.0.0.1 6727132.fls.doubleclick.net
 127.0.0.1 ace-apac-ts6.admarvel.com
+127.0.0.1 data-b36bfba069.apps.iocnt.de
 127.0.0.1 11095916.fls.doubleclick.net
 127.0.0.1 layer-amsc.pubmatic.com
 127.0.0.1 bam.eu01.nr-data.net
@@ -13268,7 +13281,6 @@
 127.0.0.1 service.sponsorpay.com
 127.0.0.1 e-10445.adzerk.net
 127.0.0.1 outsetnormalwaited.com
-127.0.0.1 exanae.com
 127.0.0.1 dfwlive-v1-c2p4-sponsored.akamaized.net
 127.0.0.1 9402986.fls.doubleclick.net
 127.0.0.1 thermofisherscientif.tt.omtrdc.net
@@ -13954,7 +13966,6 @@
 127.0.0.1 6247130.fls.doubleclick.net
 127.0.0.1 jprtb.c.appier.net
 127.0.0.1 delta232.rtb.appier.net
-127.0.0.1 tsuam.com
 127.0.0.1 9560730.fls.doubleclick.net
 127.0.0.1 notino-api.exponea.com
 127.0.0.1 6637638.fls.doubleclick.net
@@ -14650,7 +14661,6 @@
 127.0.0.1 tribune-analytics.zeustechnology.com
 127.0.0.1 static.leadpages.net
 127.0.0.1 r1.sn-p5qlsnrr.c.2mdn.net
-127.0.0.1 eaesie.com
 127.0.0.1 nbcuni.com.ssl.sc.omtrdc.net
 127.0.0.1 northwesternmutual.demdex.net
 127.0.0.1 20818029p.rfihub.com
@@ -14734,7 +14744,6 @@
 127.0.0.1 s1631.t.en25.com
 127.0.0.1 1456.api.swrve.com
 127.0.0.1 ae.mmstat.com
-127.0.0.1 bannerlandia.com.ar
 127.0.0.1 trk.superads.cn
 127.0.0.1 r4---sn-npoeenez.c.2mdn.net
 127.0.0.1 ed9wkbpy.com
@@ -14886,6 +14895,7 @@
 127.0.0.1 r2.sn-5uaeznls.c.2mdn.net
 127.0.0.1 tr.tr.tr.tr.tr.tr.tr.ulink.adjust.com
 127.0.0.1 s1259914507.t.en25.com
+127.0.0.1 relay-client-c06.iocnt.net
 127.0.0.1 us-east-1.local.emxdgt.com
 127.0.0.1 trialpay.com
 127.0.0.1 gamewith-d.openx.net
@@ -15016,6 +15026,7 @@
 127.0.0.1 sjc-232.sjc-rtb1.rfihub.com
 127.0.0.1 r2.sn-vgqsknes.c.2mdn.net
 127.0.0.1 unileverlatam.tt.omtrdc.net
+127.0.0.1 iocnt.net
 127.0.0.1 pmc.amp.permutive.com
 127.0.0.1 xeihqe72.top
 127.0.0.1 diversepeacehush.com
@@ -15582,6 +15593,7 @@
 127.0.0.1 ter-us.at.atwola.com
 127.0.0.1 r3---sn-a5mekn6k.c.2mdn.net
 127.0.0.1 adx.adform.net
+127.0.0.1 amazonaax.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 6073620.fls.doubleclick.net
 127.0.0.1 6732314.fls.doubleclick.net
@@ -16249,6 +16261,7 @@
 127.0.0.1 112.30.4.52
 127.0.0.1 adserver-vpc-alb-1-725730730.us-west-2.elb.amazonaws.com
 127.0.0.1 af4a.adj.st
+127.0.0.1 data-89224f6671.apps.iocnt.de
 127.0.0.1 repairedtightslavishness.com
 127.0.0.1 afterpayus.app.link
 127.0.0.1 avivauk.tt.omtrdc.net
@@ -16974,6 +16987,7 @@
 127.0.0.1 engine.monetate.net
 127.0.0.1 a4947.casalemedia.com
 127.0.0.1 r2---sn-nx5s7n76.c.2mdn.net
+127.0.0.1 data-ae56befb78.apps.iocnt.de
 127.0.0.1 walmartasda.demdex.net
 127.0.0.1 compassion-app.quantummetric.com
 127.0.0.1 8174303.fls.doubleclick.net
@@ -17236,7 +17250,7 @@
 127.0.0.1 8485150.fls.doubleclick.net
 127.0.0.1 a4690.casalemedia.com
 127.0.0.1 94.130.186.231
-127.0.0.1 uramog.com
+127.0.0.1 data-91d77b307e.apps.iocnt.de
 127.0.0.1 10021350.metrics.convertexperiments.com
 127.0.0.1 a2755.casalemedia.com
 127.0.0.1 cdn.steepto.com
@@ -17614,6 +17628,7 @@
 127.0.0.1 r6---sn-hp57ynez.c.2mdn.net
 127.0.0.1 6397642.fls.doubleclick.net
 127.0.0.1 9887126.fls.doubleclick.net
+127.0.0.1 data-5e25716aa5.apps.iocnt.de
 127.0.0.1 awaitbackseatprod.com
 127.0.0.1 t.pardot.com
 127.0.0.1 h-massmutual.online-metrix.net
@@ -17925,6 +17940,7 @@
 127.0.0.1 static.parsely.com
 127.0.0.1 2df7b.v.fwmrm.net
 127.0.0.1 profitrumour.com
+127.0.0.1 data-8f7660c51c.apps.iocnt.de
 127.0.0.1 api.tappx.com
 127.0.0.1 avowtech.mobileadstrk.com
 127.0.0.1 mix.adsame.com
@@ -17942,7 +17958,6 @@
 127.0.0.1 node-p2e-phopi0.sitescout.com
 127.0.0.1 eu-lon09.marketo.com
 127.0.0.1 a728.casalemedia.com
-127.0.0.1 5ijo.01net.com
 127.0.0.1 dashingdirt.com
 127.0.0.1 cdn.clinch.co
 127.0.0.1 b57f1629.api.splkmobile.com
@@ -17989,6 +18004,7 @@
 127.0.0.1 a1071.casalemedia.com
 127.0.0.1 pool-usw.visualiq.iponweb.net
 127.0.0.1 11097603.fls.doubleclick.net
+127.0.0.1 data-1105c42328.apps.iocnt.de
 127.0.0.1 iyfnzgb.com
 127.0.0.1 manaweruhe.com
 127.0.0.1 a300.casalemedia.com
@@ -18753,6 +18769,7 @@
 127.0.0.1 3e61gdwn1r.com
 127.0.0.1 csgdrop.ru
 127.0.0.1 7cf6e.v.fwmrm.net
+127.0.0.1 vlcmediadownload.com
 127.0.0.1 r5.sn-vgqsknsk.c.2mdn.net
 127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 d-01.winudf.com
@@ -18772,6 +18789,7 @@
 127.0.0.1 check-this.news
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 r4.sn-p5qlsnd6.c.2mdn.net
+127.0.0.1 relay-client-c05.iocnt.net
 127.0.0.1 ewr-295.ewr-rtb1.rfihub.net
 127.0.0.1 a4615.casalemedia.com
 127.0.0.1 r3.sn-hp57kndy.c.2mdn.net
@@ -18954,6 +18972,7 @@
 127.0.0.1 pc022-869d8.ads.tremorhub.com
 127.0.0.1 scentsy.demdex.net
 127.0.0.1 9443676.fls.doubleclick.net
+127.0.0.1 data-3bbc3a9049.apps.iocnt.de
 127.0.0.1 11006608.fls.doubleclick.net
 127.0.0.1 tkacr124.alphonso.tv
 127.0.0.1 ad.zuimeitianqi.com
@@ -19282,6 +19301,7 @@
 127.0.0.1 cege.go2cloud.org
 127.0.0.1 housekeeperjavelin.com
 127.0.0.1 omniture.d1.sc.omtrdc.net
+127.0.0.1 data-dbb3f1513f.apps.iocnt.de
 127.0.0.1 8295071.fls.doubleclick.net
 127.0.0.1 drivetime.hrzn-nxt.com
 127.0.0.1 cashapp.onelink.me
@@ -20146,6 +20166,7 @@
 127.0.0.1 r2---sn-hju7en7r.c.2mdn.net
 127.0.0.1 4765202.fls.doubleclick.net
 127.0.0.1 h-gusto.online-metrix.net
+127.0.0.1 data-96981b4ea8.apps.iocnt.de
 127.0.0.1 static.ziftsolutions.com
 127.0.0.1 tagged-by.rubiconproject.net.akadns.net
 127.0.0.1 victor107.rtb.appier.net
@@ -21062,6 +21083,7 @@
 127.0.0.1 creditkarmainc.tt.omtrdc.net
 127.0.0.1 masontotally.com
 127.0.0.1 cat.sg1.as.criteo.com
+127.0.0.1 config-at.iocnt.net
 127.0.0.1 1gnyn1v3ak78.com
 127.0.0.1 collector-15746.us.tvsquared.com
 127.0.0.1 alienateaboard.com
@@ -21135,6 +21157,7 @@
 127.0.0.1 node-p2e-hieh9n.sitescout.com
 127.0.0.1 r6---sn-p5qlsnz6.c.2mdn.net
 127.0.0.1 wup-4e6047e4.us.v2.we-stats.com
+127.0.0.1 bild-relay.iocnt.net
 127.0.0.1 rr1---sn-q4fl6nsr.c.2mdn.net
 127.0.0.1 3232222.fls.doubleclick.net
 127.0.0.1 a2402.casalemedia.com
@@ -21267,6 +21290,8 @@
 127.0.0.1 809b8335.api.splkmobile.com
 127.0.0.1 runawaygreasy.com
 127.0.0.1 8741855.fls.doubleclick.net
+127.0.0.1 zeitonl-relay.iocnt.net
+::	2a02:1668:1034::2
 127.0.0.1 a257.casalemedia.com
 127.0.0.1 qapm.baidu.com
 127.0.0.1 nicknameuntie.com
@@ -21662,6 +21687,7 @@
 127.0.0.1 delta404.rtb.appier.net
 127.0.0.1 r4---sn-5hne6nsr.c.2mdn.net
 127.0.0.1 a2172.casalemedia.com
+127.0.0.1 data-e89b4fd803.apps.iocnt.de
 127.0.0.1 collector-pxlsxlyya5.px-cloud.net
 127.0.0.1 us-api.taboola.com
 127.0.0.1 9291195.fls.doubleclick.net
@@ -22202,6 +22228,7 @@
 127.0.0.1 hkjcweb.demdex.net
 127.0.0.1 dorothydrawing.com
 127.0.0.1 y76.ylems.club
+127.0.0.1 data-a06fecb5b2.apps.iocnt.de
 127.0.0.1 ads.themovienation.com
 127.0.0.1 a4143.casalemedia.com
 127.0.0.1 a886.casalemedia.com
@@ -22445,6 +22472,7 @@
 127.0.0.1 a4242.casalemedia.com
 127.0.0.1 b1-apac1.zemanta.com
 127.0.0.1 rmb.demdex.net
+127.0.0.1 mobwelt-relay.iocnt.net
 127.0.0.1 broadboundary.com
 127.0.0.1 a5251.casalemedia.com
 127.0.0.1 a3520.casalemedia.com
@@ -22543,6 +22571,7 @@
 127.0.0.1 inquiriescape.com
 127.0.0.1 1831336.fls.doubleclick.net
 127.0.0.1 ocbc.demdex.net
+127.0.0.1 data-2d8c7b4f16.apps.iocnt.de
 127.0.0.1 lo.push.liveperson.net
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 oceaniacruise.d2.sc.omtrdc.net
@@ -22953,6 +22982,7 @@
 127.0.0.1 a4760.casalemedia.com
 127.0.0.1 8602056.fls.doubleclick.net
 127.0.0.1 mobileconfig.sascdn.com
+127.0.0.1 data-ce54b2d2bd.apps.iocnt.de
 127.0.0.1 wwg.demdex.net
 127.0.0.1 celebritycruises.com.ssl.sc.omtrdc.net
 127.0.0.1 idsync.rlcdn.com
@@ -23232,6 +23262,7 @@
 127.0.0.1 log.ifood.tv
 127.0.0.1 baichuan-sdk.alicdn.com
 127.0.0.1 eastbids.simpli.fi
+127.0.0.1 greaterfiledownload.com
 127.0.0.1 collector-11808.tvsquared.com
 127.0.0.1 cat.par.vip.prod.criteo.com
 127.0.0.1 11224337.fls.doubleclick.net
@@ -23263,6 +23294,7 @@
 127.0.0.1 microscoperestriction.com
 127.0.0.1 mcafeeinc-mkt-prod2-t.adobe-campaign.com
 127.0.0.1 joinweb9.com
+127.0.0.1 gala-relay.iocnt.net
 127.0.0.1 9125806.fls.doubleclick.net
 127.0.0.1 futilereposerefreshments.com
 127.0.0.1 8908282.fls.doubleclick.net
@@ -24521,6 +24553,7 @@
 127.0.0.1 r1---sn-25ge7nzs.c.2mdn.net
 127.0.0.1 sandhyapi.online
 127.0.0.1 gflnzl1vqntw.com
+127.0.0.1 spiegel-relay.iocnt.net
 127.0.0.1 xfreeservice.com
 127.0.0.1 player.aniview.com
 127.0.0.1 9709827.fls.doubleclick.net
@@ -24923,6 +24956,7 @@
 127.0.0.1 rbc.online-metrix.net
 127.0.0.1 cdn.ex.co
 127.0.0.1 ads.fetnet.net
+127.0.0.1 rmterlowst.com
 127.0.0.1 collector-pxp6kjrele.perimeterx.net
 127.0.0.1 10906599.fls.doubleclick.net
 127.0.0.1 11308857.fls.doubleclick.net
@@ -25710,6 +25744,7 @@
 127.0.0.1 assets.api.useinsider.com
 127.0.0.1 14.at.atwola.com
 127.0.0.1 chigslb2.fwmrm.net
+127.0.0.1 data-6fd9590058.apps.iocnt.de
 127.0.0.1 a7620104.cdn.optimizely.com
 127.0.0.1 a4865.casalemedia.com
 127.0.0.1 8128985.fls.doubleclick.net
@@ -25885,6 +25920,7 @@
 127.0.0.1 20784404p.rfihub.com
 127.0.0.1 r3---sn-i3b7knsd.c.2mdn.net
 127.0.0.1 eqx.smartadserver.com
+127.0.0.1 mobtrans-relay.iocnt.net
 127.0.0.1 ads-cle-nfl.yinzcam.com
 127.0.0.1 4351555.fls.doubleclick.net
 127.0.0.1 ninetypatsy.com
@@ -26038,6 +26074,7 @@
 127.0.0.1 10774102.fls.doubleclick.net
 127.0.0.1 ads.powweb.com
 127.0.0.1 ad.wang502.com
+127.0.0.1 data-f42d3c8446.apps.iocnt.de
 127.0.0.1 popub.com
 127.0.0.1 telariaeventsbidder-east.extend.tv
 127.0.0.1 bitingcomposed.com
@@ -26400,7 +26437,6 @@
 127.0.0.1 fr.ads.justpremium.com
 127.0.0.1 civicliverisle.com
 127.0.0.1 secure-twn.imrworldwide.com
-127.0.0.1 ihogaetw.com
 127.0.0.1 adobecorp.sc.omtrdc.net
 127.0.0.1 basinmodelingcolumns.com
 127.0.0.1 puds.ucweb.com
@@ -26450,6 +26486,7 @@
 127.0.0.1 signon-sf-nfl.yinzcam.com
 127.0.0.1 a2542.casalemedia.com
 127.0.0.1 9281193.fls.doubleclick.net
+127.0.0.1 mobkicke-relay.iocnt.net
 127.0.0.1 0vsgqxbxk66w.com
 127.0.0.1 dickssportinggoods.demdex.net
 127.0.0.1 9146255.fls.doubleclick.net
@@ -26559,6 +26596,7 @@
 127.0.0.1 factinate-d.openx.net
 127.0.0.1 r2---sn-npoeenly.c.2mdn.net
 127.0.0.1 10006436.metrics.convertexperiments.com
+127.0.0.1 script-at.iocnt.net
 127.0.0.1 10037187.fls.doubleclick.net
 127.0.0.1 stats.zmags.com
 127.0.0.1 r4.sn-hp57yne6.c.2mdn.net
@@ -26904,6 +26942,7 @@
 127.0.0.1 aligtr053.mmstat.com
 127.0.0.1 r4---sn-npoldn7e.c.2mdn.net
 127.0.0.1 marketing.criteo.com
+127.0.0.1 data-ce0e6fdeb3.apps.iocnt.de
 127.0.0.1 8239812.fls.doubleclick.net
 127.0.0.1 lb-uk.sitescout.com
 127.0.0.1 krishnaw35.alphonso.tv
@@ -27522,7 +27561,6 @@
 127.0.0.1 p.presage.io
 127.0.0.1 shoppremiumoutlets.com.ssl.sc.omtrdc.net
 127.0.0.1 collector-px0etyn5vq.perimeterx.net
-127.0.0.1 speop.com
 127.0.0.1 a4773.casalemedia.com
 127.0.0.1 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 127.0.0.1 apn-winners-ap-southeast-1-rtb.adroll.com
@@ -28889,6 +28927,7 @@
 127.0.0.1 eyebrowransom.com
 127.0.0.1 collect7400ftbll.deltadna.net
 127.0.0.1 a2727.casalemedia.com
+127.0.0.1 relay-client-c08.iocnt.net
 127.0.0.1 10231021.fls.doubleclick.net
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 s.wayin.com
@@ -29017,6 +29056,7 @@
 127.0.0.1 9957113.fls.doubleclick.net
 127.0.0.1 node-p2w-1inzej.sitescout.com
 127.0.0.1 g.dtv.cn.miaozhen.com
+127.0.0.1 faz-relay.iocnt.net
 127.0.0.1 9825211.fls.doubleclick.net
 127.0.0.1 us-e20.admanmedia.com
 127.0.0.1 3700.xg4ken.com
@@ -29033,7 +29073,6 @@
 127.0.0.1 net-se-cdn.rayjump.com
 127.0.0.1 kourier-eks-prod-1b.prod.vungle.com
 127.0.0.1 triblive-tagan.adlightning.com
-127.0.0.1 pubwes.com
 127.0.0.1 9294622.fls.doubleclick.net
 127.0.0.1 7000878.collect.igodigital.com
 127.0.0.1 static-cdn.hotjar.com
@@ -29836,7 +29875,6 @@
 127.0.0.1 9778945.fls.doubleclick.net
 127.0.0.1 config-okc-nba.yinzcam.com
 127.0.0.1 tracking.theoceanac.online
-127.0.0.1 sluxur.com
 127.0.0.1 3596942.fls.doubleclick.net
 127.0.0.1 mckcp-zfdh8nw3s03vtkfnx4xcy1.device.marketingcloudapis.com
 127.0.0.1 assets.micpn.com
@@ -30212,7 +30250,6 @@
 127.0.0.1 a5025.casalemedia.com
 127.0.0.1 app-sjf.marketo.com
 127.0.0.1 10571019.fls.doubleclick.net
-127.0.0.1 dpgawov.com
 127.0.0.1 unworthytongue.com
 127.0.0.1 hdscout.com
 127.0.0.1 tailsweep.com
@@ -31140,6 +31177,7 @@
 127.0.0.1 delta172.rtb.appier.net
 127.0.0.1 misspelldefine.com
 127.0.0.1 a5312.casalemedia.com
+127.0.0.1 focus-relay.iocnt.net
 127.0.0.1 r2.sn-5hneknee.c.2mdn.net
 127.0.0.1 a1705.casalemedia.com
 127.0.0.1 dentpaniccheeky.com
@@ -31630,6 +31668,7 @@
 127.0.0.1 analytics.youramigo.com
 127.0.0.1 banner.northsky.com
 127.0.0.1 resentproduces.com
+127.0.0.1 data-6b50f0ba60.apps.iocnt.de
 127.0.0.1 9894771.fls.doubleclick.net
 127.0.0.1 iota221.rtb.appier.net
 127.0.0.1 willowmutilatebanking.com
@@ -31663,7 +31702,6 @@
 127.0.0.1 10169194.fls.doubleclick.net
 127.0.0.1 ag.innovid.com.akadns.net
 127.0.0.1 ah103.mta.exacttarget.com
-127.0.0.1 utenod.com
 127.0.0.1 collector-6725.tvsquared.com
 127.0.0.1 adlegend.com
 127.0.0.1 prod-m-node-1113.ssp.advertising.com
@@ -32293,6 +32331,7 @@
 127.0.0.1 collector-17097.us.tvsquared.com
 127.0.0.1 bqiovml.com
 127.0.0.1 analytics.ns1.ff.avast.com
+127.0.0.1 data-ccadb8b6f3.apps.iocnt.de
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 mobile.analytics.wildtangent.com
 127.0.0.1 staples.demdex.net
@@ -32520,6 +32559,7 @@
 127.0.0.1 17de4c1b.akstat.io
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 514011855.collect.igodigital.com
+127.0.0.1 wetter-relay.iocnt.net
 127.0.0.1 linkedprepenseprepense.com
 127.0.0.1 metacritic.com.ssl.sc.omtrdc.net
 127.0.0.1 9094101.fls.doubleclick.net
@@ -32578,6 +32618,7 @@
 127.0.0.1 node-p2e-tvew8b.sitescout.com
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 r3.sn-p5qs7nee.c.2mdn.net
+127.0.0.1 data-53ba3c279a.apps.iocnt.de
 127.0.0.1 ewr-364.ewr-rtb1.rfihub.com
 127.0.0.1 dbg52463.moatads.com
 127.0.0.1 mcx0s3h6kzxbb3yv0dqzmy51my94.device.marketingcloudapis.com
@@ -32875,6 +32916,7 @@
 127.0.0.1 11234594.fls.doubleclick.net
 127.0.0.1 lax1-ib.adnxs.com
 127.0.0.1 r2.visualwebsiteoptimizer.com
+127.0.0.1 data-49877903fc.apps.iocnt.de
 127.0.0.1 casalmedia.com
 127.0.0.1 cigna.sc.omtrdc.net
 127.0.0.1 4421.content.swrve.com
@@ -33422,6 +33464,7 @@
 127.0.0.1 petulantblew.com
 127.0.0.1 r6---sn-nv47lnl6.c.2mdn.net
 127.0.0.1 adonspot.com
+127.0.0.1 mobippen-relay.iocnt.net
 127.0.0.1 a5155.casalemedia.com
 127.0.0.1 183.15.90.156
 127.0.0.1 market-csgo.ru
@@ -34236,6 +34279,7 @@
 127.0.0.1 darkenedshrine.com
 127.0.0.1 r1---sn-qxoedn7z.c.2mdn.net
 127.0.0.1 exponential54894892.s.moatpixel.com
+127.0.0.1 mobhaz-relay.iocnt.net
 127.0.0.1 rtb-creatives.fiksu.com
 127.0.0.1 whiskyqueue.com
 127.0.0.1 thousandfixedlyyawn.com
@@ -34731,6 +34775,7 @@
 127.0.0.1 grychiphidu.com
 127.0.0.1 collector-11697.tvsquared.com
 127.0.0.1 reedbusiness.net.ssl.d2.sc.omtrdc.net
+127.0.0.1 click.hooligapps.com
 127.0.0.1 hitlounge.com
 127.0.0.1 geo-balanced-collect.deltadna.net
 127.0.0.1 20836328p.rfihub.com
@@ -36246,7 +36291,6 @@
 127.0.0.1 ads.geekswithblogs.net
 127.0.0.1 chse-security-notifications.email
 127.0.0.1 exc.mob.com
-127.0.0.1 matomo.zwetok.ru
 127.0.0.1 displayf.tubemogul.com
 127.0.0.1 youborafds01.com
 127.0.0.1 collect19933twrcn.deltadna.net
@@ -36518,7 +36562,6 @@
 127.0.0.1 4354204.fls.doubleclick.net
 127.0.0.1 krishnaw285.alphonso.tv
 127.0.0.1 r2---sn-hp57kn67.c.2mdn.net
-127.0.0.1 cliand.com
 127.0.0.1 itaspa.d3.sc.omtrdc.net
 127.0.0.1 info.startappservice.com
 127.0.0.1 chosun-d.openx.net
@@ -36784,6 +36827,7 @@
 127.0.0.1 a853.casalemedia.com
 127.0.0.1 r4.sn-a5mlrnel.c.2mdn.net
 127.0.0.1 li.walmart.com
+127.0.0.1 data-189b3ff7e9.apps.iocnt.de
 127.0.0.1 r2.sn-a5mlrnez.c.2mdn.net
 127.0.0.1 monthlyindirectelsewhere.com
 127.0.0.1 classroom.synonym.demandmedia.com
@@ -36966,6 +37010,7 @@
 127.0.0.1 r4---sn-npoeene7.c.2mdn.net
 127.0.0.1 10993309.fls.doubleclick.net
 127.0.0.1 r1---sn-hp57yne7.c.2mdn.net
+127.0.0.1 data-cedbf1e823.apps.iocnt.de
 127.0.0.1 searchandnews.technoratimedia.com
 127.0.0.1 d.applvn.com
 127.0.0.1 ewr-382.ewr-rtb1.rfihub.net
@@ -38030,6 +38075,7 @@
 127.0.0.1 a2700.casalemedia.com
 127.0.0.1 support-na.mediaocean.com
 127.0.0.1 undertone.com
+127.0.0.1 data-e363eeae09.apps.iocnt.de
 127.0.0.1 analytics.yopify.com.herokudns.com
 127.0.0.1 r6---sn-hpa7kn7e.c.2mdn.net
 127.0.0.1 log-api.newrelic.com
@@ -39642,6 +39688,7 @@
 127.0.0.1 10188263.fls.doubleclick.net
 127.0.0.1 8689023.fls.doubleclick.net
 127.0.0.1 r5---sn-q4flrnel.c.2mdn.net
+127.0.0.1 data-4aed862c71.apps.iocnt.de
 127.0.0.1 libertymutualcorporate.demdex.net
 127.0.0.1 8173904.fls.doubleclick.net
 127.0.0.1 20824866p.rfihub.com
@@ -39881,6 +39928,7 @@
 127.0.0.1 dcfnihzg81pa.com
 127.0.0.1 sn-o097znsd.c.2mdn.net
 127.0.0.1 hlbmc.demdex.net
+127.0.0.1 look.djfiln.com
 127.0.0.1 fatalityunbelievablelaurie.com
 127.0.0.1 sync.republer.com
 127.0.0.1 node-uk-eipai4.sitescout.com
@@ -41103,6 +41151,7 @@
 127.0.0.1 rr2---sn-p5qddn7d.c.2mdn.net
 127.0.0.1 honeywellinternationalinc.demdex.net
 127.0.0.1 a828.casalemedia.com
+127.0.0.1 mobbild-relay.iocnt.net
 127.0.0.1 brainly-d.openx.net
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 a2205.casalemedia.com
@@ -41301,6 +41350,7 @@
 127.0.0.1 adminsys.serveftp.com
 127.0.0.1 a4307.casalemedia.com
 127.0.0.1 physic-craft.us
+127.0.0.1 stern-relay.iocnt.net
 127.0.0.1 aacargo-app.quantummetric.com
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 r1---sn-a5mlrnek.c.2mdn.net
@@ -41822,7 +41872,6 @@
 127.0.0.1 8969258.fls.doubleclick.net
 127.0.0.1 t2.hulu.com
 127.0.0.1 adx.rrt365.com
-127.0.0.1 emanog.com
 127.0.0.1 10030805.fls.doubleclick.net
 127.0.0.1 a334.casalemedia.com
 127.0.0.1 streamguys.deliveryengine.adswizz.com
@@ -41981,6 +42030,7 @@
 127.0.0.1 da.duapps.com
 127.0.0.1 9599029.fls.doubleclick.net
 127.0.0.1 s476064971.t.en25.com
+127.0.0.1 mobfocus-relay.iocnt.net
 127.0.0.1 delta409.rtb.appier.net
 127.0.0.1 collector-pxq7o93831.perimeterx.net
 127.0.0.1 conde.amp.permutive.com
@@ -42659,7 +42709,6 @@
 127.0.0.1 explicablenetwork10263876.o18.click
 127.0.0.1 node-p2e-w3nxbg.sitescout.com
 127.0.0.1 10580338.fls.doubleclick.net
-127.0.0.1 denety.com
 127.0.0.1 a4455.casalemedia.com
 127.0.0.1 ballroomexhibitionmid.com
 127.0.0.1 r1.sn-a5msen76.c.2mdn.net
@@ -42854,6 +42903,7 @@
 127.0.0.1 110006097.collect.igodigital.com
 127.0.0.1 apr.lijit.com
 127.0.0.1 theta349.rtb.appier.net
+127.0.0.1 data-babf36a332.apps.iocnt.de
 127.0.0.1 a3435.casalemedia.com
 127.0.0.1 a735.casalemedia.com
 127.0.0.1 adap.tv
@@ -42964,6 +43014,7 @@
 127.0.0.1 bbvaperu.tt.omtrdc.net
 127.0.0.1 io.innertrends.com
 127.0.0.1 boxofficecounselling.com
+127.0.0.1 look.opskln.com
 127.0.0.1 6856819.fls.doubleclick.net
 127.0.0.1 theta292.rtb.appier.net
 127.0.0.1 zn1x4bay9t3d099pf-hsbcdigital.siteintercept.qualtrics.com
@@ -43655,6 +43706,7 @@
 127.0.0.1 10883394.collect.igodigital.com
 127.0.0.1 plus.tapsell.ir
 127.0.0.1 t-sfo.pubmatic.com
+127.0.0.1 dorderstar.xyz
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
 127.0.0.1 ox-rtb-europe-west1.openx.net
 127.0.0.1 enthusiastgaming-tagan.adlightning.com
@@ -44269,6 +44321,7 @@
 127.0.0.1 cguke-kt50v.ads.tremorhub.com
 127.0.0.1 10323204.fls.doubleclick.net
 127.0.0.1 theta246.rtb.appier.net
+127.0.0.1 users.maxcluster.net
 127.0.0.1 arkadium-tagan.adlightning.com
 127.0.0.1 apiconfig.adwo.com
 127.0.0.1 node-p2e-vue7ph.sitescout.com
@@ -46244,6 +46297,7 @@
 127.0.0.1 ewr-358.ewr-rtb1.rfihub.com
 127.0.0.1 cpmstatsart.com
 127.0.0.1 r2---sn-5hnedn7l.c.2mdn.net
+127.0.0.1 data-b9db45caa4.apps.iocnt.de
 127.0.0.1 daimlerag.d2.sc.omtrdc.net
 127.0.0.1 knowledge.kaltura.com
 127.0.0.1 criteo.net
@@ -47579,6 +47633,7 @@
 127.0.0.1 1017522.fls.doubleclick.net
 127.0.0.1 canadapost.ca.ssl.d1.sc.omtrdc.net
 127.0.0.1 d70c.playfabapi.com
+127.0.0.1 data-e906bea99c.apps.iocnt.de
 127.0.0.1 myskillsfuture.demdex.net
 127.0.0.1 samsungchina.tt.omtrdc.net
 127.0.0.1 hbrc.pubnative.net
@@ -47633,6 +47688,7 @@
 127.0.0.1 banalbjar.com
 127.0.0.1 bcdn-f4e48049.we-stats.com
 127.0.0.1 thefreshstuffs.at
+127.0.0.1 relay-client-c07.iocnt.net
 127.0.0.1 personal-video.live
 127.0.0.1 bm-nginx-loadbalancer.mgmt.sin3.adnexus.net
 127.0.0.1 rogers.demdex.net
@@ -48160,6 +48216,7 @@
 127.0.0.1 plausiblebyeshear.com
 127.0.0.1 ewscripps.hb.omtrdc.net
 127.0.0.1 api.permutive.app
+127.0.0.1 data-fbef420c7e.apps.iocnt.de
 127.0.0.1 r1.sn-vgqsknel.c.2mdn.net
 127.0.0.1 evaporatedisturbedbarrier.com
 127.0.0.1 huermob.fusetracking.com
@@ -48424,6 +48481,7 @@
 127.0.0.1 va-lb.gumgum.com
 127.0.0.1 cr74.mta.exacttarget.com
 127.0.0.1 decoctionembedded.com
+127.0.0.1 data-01df4c6e0c.apps.iocnt.de
 127.0.0.1 api6.agilone.com
 127.0.0.1 bttmarriottdev500z.btttag.com
 127.0.0.1 17de4c13.akstat.io
@@ -48721,6 +48779,7 @@
 127.0.0.1 ewr-427.ewr-rtb1.rfihub.net
 127.0.0.1 051c3ab1.api.splkmobile.com
 127.0.0.1 4448269.fls.doubleclick.net
+127.0.0.1 transfer-relay.iocnt.net
 127.0.0.1 e07wm.xyz
 127.0.0.1 r6---sn-30a7yn7r.c.2mdn.net
 127.0.0.1 dfwcdvr-cc-mssn2-sponsored.akamaized.net
@@ -48728,7 +48787,6 @@
 127.0.0.1 r6---sn-qxo7rn7l.c.2mdn.net
 127.0.0.1 mammalbuy.com
 127.0.0.1 telstracorporationlt.tt.omtrdc.net
-127.0.0.1 onenag.com
 127.0.0.1 tollorganization.com
 127.0.0.1 telemetry.insights.video.a2z.com
 127.0.0.1 a3362.casalemedia.com
@@ -49710,6 +49768,7 @@
 127.0.0.1 f-p.alcmpn.com
 127.0.0.1 merklemarketing.tt.omtrdc.net
 127.0.0.1 beefrantravelled.com
+127.0.0.1 at.iocnt.net
 127.0.0.1 9424117.fls.doubleclick.net
 127.0.0.1 a937.casalemedia.com
 127.0.0.1 110007154.collect.igodigital.com
@@ -49977,6 +50036,7 @@
 127.0.0.1 mauricesincorporatedadelewarecorporation.demdex.net
 127.0.0.1 10421682.fls.doubleclick.net
 127.0.0.1 edge-usw2.demdex.net
+127.0.0.1 sharedmega.com
 127.0.0.1 log-2c864c4b.eu.v2.we-stats.com
 127.0.0.1 confrontationproximity.com
 127.0.0.1 nginxborder-server.naiadsystems.com
@@ -50184,6 +50244,7 @@
 127.0.0.1 parcelforce.com.ssl.d1.sc.omtrdc.net
 127.0.0.1 a1233.casalemedia.com
 127.0.0.1 r4---sn-aigl6nsk.c.2mdn.net
+127.0.0.1 data-c4b720ded1.apps.iocnt.de
 127.0.0.1 spug88000nfc.pubmatic.com
 127.0.0.1 r5.sn-a5mlrnek.c.2mdn.net
 127.0.0.1 602.bm-nginx-loadbalancer.mgmt.sin3.adnexus.net
@@ -52304,6 +52365,7 @@
 127.0.0.1 s90815893.t.en25.com
 127.0.0.1 8254859.fls.doubleclick.net
 127.0.0.1 8496125.fls.doubleclick.net
+127.0.0.1 data-57ee451953.apps.iocnt.de
 127.0.0.1 a1872.casalemedia.com
 127.0.0.1 redcross.demdex.net
 127.0.0.1 a.optinmonster.com
@@ -53288,6 +53350,7 @@
 127.0.0.1 8324482.fls.doubleclick.net
 127.0.0.1 a2288.casalemedia.com
 127.0.0.1 a292.casalemedia.com
+127.0.0.1 mobspieg-relay.iocnt.net
 127.0.0.1 cimbniaga.demdex.net
 127.0.0.1 collector-pxhbu9onsl.px-cloud.net
 127.0.0.1 collinsoninsuranceprod.saas.appdynamics.com
@@ -53296,6 +53359,7 @@
 127.0.0.1 iota214.rtb.appier.net
 127.0.0.1 61.52.8.62
 127.0.0.1 a1862.casalemedia.com
+127.0.0.1 roms-download.com
 127.0.0.1 destinationdirttrust.com
 127.0.0.1 a2222.casalemedia.com
 127.0.0.1 paas-push-api-log.immomo.com
@@ -54096,6 +54160,7 @@
 127.0.0.1 8873194.fls.doubleclick.net
 127.0.0.1 georiot.com
 127.0.0.1 5049321.fls.doubleclick.net
+127.0.0.1 relay-client-c04.iocnt.net
 127.0.0.1 ads.edbindex.dk
 127.0.0.1 stage-ms.applovin.com
 127.0.0.1 lw2ofgc2zo.com
@@ -54340,7 +54405,6 @@
 127.0.0.1 pugmaster-sg4.pubmatic.com
 127.0.0.1 4482658.fls.doubleclick.net
 127.0.0.1 jobsdb.api.useinsider.com
-127.0.0.1 etioh.com
 127.0.0.1 collector-pxdoe5cht3.px-cloud.net
 127.0.0.1 tistory1.daumcdn.net
 127.0.0.1 srchus.xyz
@@ -54510,7 +54574,6 @@
 127.0.0.1 ewr-431.ewr-rtb1.rfihub.net
 127.0.0.1 sapclasped.com
 127.0.0.1 futureelectronics.sc.omtrdc.net
-127.0.0.1 sensismediasmart.com.au
 127.0.0.1 r5---sn-ab5l6nzk.c.2mdn.net
 127.0.0.1 r3---sn-5hnekn7d.c.2mdn.net
 127.0.0.1 6220336.fls.doubleclick.net
@@ -56025,6 +56088,7 @@
 127.0.0.1 9135613.fls.doubleclick.net
 127.0.0.1 11031206.fls.doubleclick.net
 127.0.0.1 alaskaair-app.quantummetric.com
+127.0.0.1 relay-client-c01.iocnt.net
 127.0.0.1 waitinghypotheticallysoot.com
 127.0.0.1 wlneteller.adsrv.eacdn.com
 127.0.0.1 a1121.casalemedia.com
@@ -56170,7 +56234,6 @@
 127.0.0.1 i-ash11.g.flashtalking.com
 127.0.0.1 dailymotionjsvideo432290662219.s.moatpixel.com
 127.0.0.1 track.knlob.com
-127.0.0.1 paxtro.com
 127.0.0.1 bidi-geo.mythings.com
 127.0.0.1 hbopenbid-njrbc.pubmatic.com
 127.0.0.1 7206597.collect.igodigital.com
@@ -56387,6 +56450,7 @@
 127.0.0.1 mta-2d5674a6.ip4.emarsys.us
 127.0.0.1 thetinetusky.cam
 127.0.0.1 bellmedia.sc.omtrdc.net
+127.0.0.1 floweryflavor.com
 127.0.0.1 f19-ru.adhigh.net
 127.0.0.1 steamconmunyty.ru
 127.0.0.1 needfulforesightharness.com
@@ -56444,7 +56508,6 @@
 127.0.0.1 11500745.fls.doubleclick.net
 127.0.0.1 9860545.fls.doubleclick.net
 127.0.0.1 gepowerandwater.d2.sc.omtrdc.net
-127.0.0.1 suried.com
 127.0.0.1 a1039.casalemedia.com
 127.0.0.1 awaf.answers.nielseniq.com
 127.0.0.1 ad.crwdcntrl.net
@@ -56649,7 +56712,6 @@
 127.0.0.1 iptvrc-cle-nba.yinzcam.com
 127.0.0.1 heredeutschlandgmbh.d1.sc.omtrdc.net
 127.0.0.1 ff.doubleclick.net
-127.0.0.1 folawn.com
 127.0.0.1 shoesforcrews-ssl.extole.com
 127.0.0.1 compass-errors.deliverimp.com
 127.0.0.1 b.logly.co.jp
@@ -57048,6 +57110,7 @@
 127.0.0.1 s.fwmrm.net
 127.0.0.1 verizonenterprise.demdex.net
 127.0.0.1 tags.mathtag.com
+127.0.0.1 data-a21143b1fe.apps.iocnt.de
 127.0.0.1 imarketservices.com
 127.0.0.1 a2455.casalemedia.com
 127.0.0.1 cdiscount.com.ssl.d2.sc.omtrdc.net
@@ -57446,6 +57509,7 @@
 127.0.0.1 a3426.casalemedia.com
 127.0.0.1 174674.engine.mobileapptracking.com
 127.0.0.1 amasssentimentaldamaging.com
+127.0.0.1 data-e095ec3c5c.apps.iocnt.de
 127.0.0.1 zeroredirect5.com
 127.0.0.1 theta259.rtb.appier.net
 127.0.0.1 a726.casalemedia.com
@@ -57614,7 +57678,6 @@
 127.0.0.1 r2---sn-qxoedn7z.c.2mdn.net
 127.0.0.1 upsettingcrescentwig.com
 127.0.0.1 stingygirlieaccompany.com
-127.0.0.1 trading-rtbg.com
 127.0.0.1 a4904.casalemedia.com
 127.0.0.1 wildcard.owneriq.net.edgekey.net
 127.0.0.1 2n79.adj.st
@@ -57694,6 +57757,7 @@
 127.0.0.1 tracking.21-a4652-bi.co.uk
 127.0.0.1 8925187.fls.doubleclick.net
 127.0.0.1 theta308.rtb.appier.net
+127.0.0.1 apps.iocnt.de
 127.0.0.1 brp-mkt-prod1-t.adobe-campaign.com
 127.0.0.1 a5076.casalemedia.com
 127.0.0.1 adx.xiaodutv.com
@@ -57786,6 +57850,7 @@
 127.0.0.1 639.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
 127.0.0.1 alrightconsulatevarying.com
 127.0.0.1 segmentation-phi-nfl.yinzcam.com
+127.0.0.1 quiremuken.xyz
 127.0.0.1 9050316.fls.doubleclick.net
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 kiosked.com
@@ -58054,6 +58119,7 @@
 127.0.0.1 qyt8pi.waystriling.com
 127.0.0.1 xts7fgss.com
 127.0.0.1 mdanderson.org.ssl.d2.sc.omtrdc.net
+127.0.0.1 udncoeln.com
 127.0.0.1 signalrs2-relayhub-prod-as01-1.service.signalr.net
 127.0.0.1 akamai-san14.exacttarget.com.edgekey.net
 127.0.0.1 xttjq8qc.micpn.com
@@ -58229,6 +58295,7 @@
 127.0.0.1 akamai-san171.exacttarget.com.edgekey.net
 127.0.0.1 ewr-501.ewr-rtb1.rfihub.net
 127.0.0.1 unilever2.demdex.net
+127.0.0.1 welt-relay.iocnt.net
 127.0.0.1 9786142.fls.doubleclick.net
 127.0.0.1 6364077.fls.doubleclick.net
 127.0.0.1 iqzone.com
