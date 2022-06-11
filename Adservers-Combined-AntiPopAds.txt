@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 # Title: Adult Adservers+AntiPopAds Blocklist
-# Version: 20220611T2000
+# Version: 20220611T2030
 # Mainly Focusus on Adult Adservers
 
 
@@ -4100,7 +4100,6 @@ carsales.com.au
 ||govchongqing.cn^
 ||it-pearl.com^$third-party
 ||cdn7.space^
-127.0.0.1	localhost
 /imdbads/js/*
 ||hpljupfyb.com^
 ||vernmentbasily.com^
@@ -48470,7 +48469,6 @@ _ChatAd_
 ||mxjptfrxqaavdc.com^
 ||junipe3rus4virginiana.com^
 ||ztidu.com^
-facebook.com
 @@||adm.fwmrm.net/p/cracklecom_flash_live/AdManager.swf^$domain=crackle.com
 .html?ad=
 ||celeb.gate.cc/assets/bilder/bann
@@ -49177,7 +49175,6 @@ xozilla.xxx,sexu.*,eroticmv.com,4kpornmovs.com,pornvideos4k.com,seemysex.com,yts
 ||reklam.bahisanaliz.com^
 @@||js.spotx.tv/directsdk/*.js$domain=bloomberg.com
 ||inflationbreedinghoax.com^
-::1	localhost
 ||analytics.slashdotmedia.com^
 ||jiedaibao120.cn^
 ||stableprofit.ru^
@@ -83794,7 +83791,6 @@ _layerad.
 ||jgchq.com^
 ||eoidr.cn^
 ||uckbcroqkb.com^
-twitter.com
 @@||andrasgazdasag.hu/wp-content/plugins/add-cookie-notice/js/add-cookie-notice.js
 ||21.fh21static.com^
 @@||ad.zanox.com/ppc/$subdocument,domain=wisedock.at|wisedock.co.uk|wisedock.com|wisedock.de|wisedock.eu
