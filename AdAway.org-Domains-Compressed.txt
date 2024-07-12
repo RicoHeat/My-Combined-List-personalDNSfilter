@@ -1,5 +1,5 @@
 ! Title: AdAway Domains
-! Version: 20240524T2030
+! Version: 20240713T0330
 ! Source: https://adaway.org/hosts.txt
 ! Description: AdAway hosts converted into domains and redundancies removed
 
